@@ -31,7 +31,7 @@ Gridap.jl is a powerful finite element library in Julia that provides:
 ```
 CMOE-Tutorials/
 ├── Gridap_tutorials/       # Tutorials using Gridap.jl
-│   └── Tutorial_1.ipynb    # Introduction to Gridap.jl
+│   └── Tutorial_1.ipynb    # Itroduction to Gridap.jl - From Weak Form to Elemental Matrix and Vector
 ├── Project.toml            # Julia project dependencies
 ├── Manifest.toml           # Julia environment specification
 └── README.md               # This file
@@ -75,7 +75,8 @@ To run the tutorials, you'll need:
 
 ### Gridap Tutorials
 
-- **Tutorial 1**: Introduction to fundamentals of Gridap.jl - From weak form to assembly
+- **Tutorial 1: Introduction to Gridap.jl - From Weak Form to Elemental Matrix and Vector**  
+  This tutorial explores the fundamentals of finite element assembly in Gridap.jl, going in depth into how weak formulations are transformed into elemental matrices and vectors before global assembly.
 
 *More tutorials will be added regularly*
 
